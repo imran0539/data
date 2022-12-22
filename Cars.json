@@ -2,46 +2,64 @@
 	{
 		"Name": "Audi Q2",
 		"Resource": "https://imgd.aeplcdn.com/0x0/n/cw/ec/22801/q2-exterior-right-front-three-quarter-70077.jpeg",
-		"Description": "Audi Q2. Audi Q2 is a 5 seater SUV available in a price range of ₹ 35.00 - 48.90 Lakh. It is available in 6 variants, 1984 cc engine option and 1 transmission."
+		"Description": "Audi Q2. Audi Q2 is a 5 seater SUV available in a price range of ₹ 35.00 - 48.90 Lakh. It is available in 6 variants, 1984 cc engine option and 1 transmission.",
+		"Latitude": -8.783195,
+    		"Longitude": 34.508523
 	},
 	{
 		"Name": "Audi A4",
 		"Resource": "https://www.drivespark.com/car-image/640x480x100/car/25363515-audi_a4.jpg",
-		"Description": "Audi A4 price starts at ₹ 43.06 Lakh and goes upto ₹ 50.99 Lakh (Avg. ex-showroom). A4 comes in 3 variants. A4 top model price in petrol is ₹ 50.99 Lakh."
+		"Description": "Audi A4 price starts at ₹ 43.06 Lakh and goes upto ₹ 50.99 Lakh (Avg. ex-showroom). A4 comes in 3 variants. A4 top model price in petrol is ₹ 50.99 Lakh.",
+		"Latitude": 12.769013,
+    		"Longitude": -85.602364
 	},
 	{
 		"Name": "Audi Q7",
 		"Resource": "https://imgd.aeplcdn.com/0x0/n/cw/ec/22803/audi-q7-facelift-right-front-three-quarter4.jpeg",
-		"Description": "Audi Q7 is a 7 seater SUV available in a price range of Rs. 83.32 - 88.98 Lakh*. It is available in 2 variants, a 2995 cc, BS6."
+		"Description": "Audi Q7 is a 7 seater SUV available in a price range of Rs. 83.32 - 88.98 Lakh*. It is available in 2 variants, a 2995 cc, BS6.",
+		"Latitude": 1.957709,
+    		"Longitude": 37.297204
 	},
 	{
 		"Name": "BMW 3 Series",
 		"Resource": "https://imgd.aeplcdn.com/664x374/cw/ec/37067/BMW-3-Series-Exterior-167583.jpg?wm=0&q=75",
-		"Description": "The seventh-generation BMW 3 Series was launched in India back in August 2019. The model is currently available in four trims that include 330i Sport, 320d Luxury Edition, 330i M Sport, and the M340i xDrive."
+		"Description": "The seventh-generation BMW 3 Series was launched in India back in August 2019. The model is currently available in four trims that include 330i Sport, 320d Luxury Edition, 330i M Sport, and the M340i xDrive.",
+		"Latitude": -8.783195,
+    		"Longitude": -55.491477
 	},
 	{
 		"Name": "BMW X1",
 		"Resource": "https://imgd.aeplcdn.com/664x374/n/cw/ec/45242/bmw-x1-facelift-right-front-three-quarter2.jpeg?q=75",
-		"Description": "The BMW X1 is available in four trim levels, namely the X1 sDrive20i SportX, sDrive20i xLine, sDrive20d xLine and sDrive20i Tech Edition. "
+		"Description": "The BMW X1 is available in four trim levels, namely the X1 sDrive20i SportX, sDrive20i xLine, sDrive20d xLine and sDrive20i Tech Edition. ",
+		"Latitude": -14.235004,
+    		"Longitude": -51.92528
 	},
 	{
 		"Name": "BMW Z4",
 		"Resource": "https://imgd.aeplcdn.com/664x374/cw/ec/37095/BMW-Z4-Roadster-Right-Front-Three-Quarter-153914.jpg?wm=0&q=75",
-		"Description": "The updated BMW Z4 was launched in India on 08 April 2019."
+		"Description": "The updated BMW Z4 was launched in India on 08 April 2019.",
+		"Latitude": -8.783195,
+    		"Longitude": -55.491477
 	},
 	{
 		"Name": "Rolls-Royce Dawn",
 		"Resource": "https://imgd.aeplcdn.com/664x374/cw/ec/23875/RollsRoyce-Dawn-Right-Front-Three-Quarter-75144.jpg?v=201711021421&wm=0&q=75",
-		"Description": "Rolls-Royce Dawn price is ₹ 6.99 Crore (on-road Mumbai). Dawn comes in 1 variant. Dawn top model price in petrol is ₹ 6.99 Crore. Whereas the price of Dawn automatic version starts from ₹ 6.99 Crore."
+		"Description": "Rolls-Royce Dawn price is ₹ 6.99 Crore (on-road Mumbai). Dawn comes in 1 variant. Dawn top model price in petrol is ₹ 6.99 Crore. Whereas the price of Dawn automatic version starts from ₹ 6.99 Crore.",
+		"Latitude": 36.204824,
+    		"Longitude": 138.252924
 	},
 	{
 		"Name": "Rolls-Royce Phantom VIII",
 		"Resource": "https://imgd.aeplcdn.com/664x374/cw/ec/30181/RollsRoyce-Phantom-VIII-Exterior-124069.jpg?wm=0&q=75",
 		"Description": "The Rolls-Royce Phantom VIII was launched in India on 23 February 2018. This is the current flagship model made by Rolls-Royce Motor Cars."
+		"Latitude": 7.369722,
+    		"Longitude": 12.354722
 	},
 	{
 		"Name": "Rolls-Royce Cullinan",
 		"Resource": "https://imgd.aeplcdn.com/664x374/cw/ec/34427/RollsRoyce-Cullinan-Exterior-158729.jpg?wm=0&q=75",
-		"Description": "Rolls-Royce Cullinan price is ₹ 8.20 Crore (on-road Mumbai). Cullinan comes in 1 variant. Cullinan top model price in petrol is ₹ 8.20 Crore. Whereas the price of Cullinan automatic version starts from ₹ 8.20 Crore."
+		"Description": "Rolls-Royce Cullinan price is ₹ 8.20 Crore (on-road Mumbai). Cullinan comes in 1 variant. Cullinan top model price in petrol is ₹ 8.20 Crore. Whereas the price of Cullinan automatic version starts from ₹ 8.20 Crore.",
+		"Latitude": 0.961883,
+    		"Longitude": 114.55485
 	}
 ]
